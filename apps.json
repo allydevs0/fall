@@ -1,0 +1,26 @@
+{
+    "name": "DynamicCow Repo",
+    "identifier": "com.dynamiccow.repo",
+    "subtitle": "Enable Dynamic Island on unsupported iPhones",
+    "iconURL": "https://raw.githubusercontent.com/matteozappia/DynamicCow/main/icon.png",
+    "website": "https://github.com/matteozappia/DynamicCow",
+    "sourceURL": "https://raw.githubusercontent.com/allydevs0/fall/refs/heads/main/apps.jsonn",
+    "tintColor": "#007AFF",
+    "apps": [
+        {
+            "name": "DynamicCow",
+            "bundleIdentifier": "com.matteozappia.dynamiccow",
+            "developerName": "Matteo Zappia",
+            "version": "1.1",
+            "versionDate": "2024-02-01",
+            "downloadURL": "https://github.com/matteozappia/DynamicCow/releases/download/1.1/DynamicCow.ipa",
+            "localizedDescription": "Enable Dynamic Island, Stage Manager, and more on unsupported iPhones running iOS 17.",
+            "iconURL": "https://raw.githubusercontent.com/matteozappia/DynamicCow/main/icon.png",
+            "tintColor": "#007AFF",
+            "size": 7340032,
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/matteozappia/DynamicCow/main/screenshot1.png"
+            ]
+        }
+    ]
+}
