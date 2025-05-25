@@ -12,7 +12,7 @@
       "downloadURL": "https://github.com/matteozappia/DynamicCow/releases/download/1.1/DynamicCow.ipa",
       "localizedDescription": "Unlock hidden iOS features on unsupported devices.",
       "iconURL": "https://raw.githubusercontent.com/matteozappia/DynamicCow/main/icon.png",
-      "tintColor": "rgb(0, 122, 255)"
+      "tintColor": "#007AFF"
     }
   ]
 }
