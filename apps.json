@@ -1,0 +1,18 @@
+{
+  "name": "DynamicCow Repo",
+  "identifier": "com.example.dynamiccowrepo",
+  "apps": [
+    {
+      "name": "DynamicCow",
+      "bundleIdentifier": "com.matteozappia.dynamiccow",
+      "developerName": "Matteo Zappia",
+      "version": "1.1",
+      "versionDate": "2024-02-01",
+      "versionDescription": "Support for iOS 17.x - Enable dynamic island, Stage Manager, and other features on unsupported devices.",
+      "downloadURL": "https://github.com/matteozappia/DynamicCow/releases/download/1.1/DynamicCow.ipa",
+      "localizedDescription": "Unlock hidden iOS features on unsupported devices.",
+      "iconURL": "https://raw.githubusercontent.com/matteozappia/DynamicCow/main/icon.png",
+      "tintColor": "rgb(0, 122, 255)"
+    }
+  ]
+}
