@@ -1,0 +1,21 @@
+POST / HTTP/2
+Host: ghostsales.shop
+Content-Length: 98
+Sec-Ch-Ua-Platform: "Windows"
+Next-Action: d5583b14a6c95a2e409c40b3f8940a9de6b821d7
+Accept-Language: pt-BR,pt;q=0.9
+Sec-Ch-Ua: "Not)A;Brand";v="8", "Chromium";v="138"
+Sec-Ch-Ua-Mobile: ?0
+Next-Router-State-Tree: %5B%22%22%2C%7B%22children%22%3A%5B%22(public)%22%2C%7B%22children%22%3A%5B%22__PAGE__%22%2C%7B%7D%2C%22%2F%22%2C%22refresh%22%5D%7D%5D%7D%2Cnull%2Cnull%2Ctrue%5D
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+Accept: text/x-component
+Content-Type: text/plain;charset=UTF-8
+Origin: https://ghostsales.shop
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://ghostsales.shop/
+Accept-Encoding: gzip, deflate, br
+Priority: u=1, i
+
+[{"url":"/produtos?categoria=1751726875272547435849806262990&page=1","method":"GET","auth":false}]
